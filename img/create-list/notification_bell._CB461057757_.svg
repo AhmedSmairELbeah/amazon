@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="21px" viewBox="0 0 23 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Get notified</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Get-notified">
+            <g id="notification" fill="#008296" fill-rule="nonzero">
+                <path d="M20,13.59 L18,11.59 L18,8 C18,3.581722 14.418278,4.4408921e-16 10,0 C5.581722,-2.22044605e-16 2,3.581722 2,8 L2,11.59 L0,13.59 L0,18 L6.14,18 C6.61339782,19.7419603 8.19485974,20.9510005 10,20.9510005 C11.8051403,20.9510005 13.3866022,19.7419603 13.86,18 L20,18 L20,13.59 Z M10,19 C9.28977788,18.9957131 8.63510459,18.6150891 8.28,18 L11.72,18 C11.3648954,18.6150891 10.7102221,18.9957131 10,19 Z M18,16 L2,16 L2,14.41 L4,12.41 L4,8 C4,4.6862915 6.6862915,2 10,2 C13.3137085,2 16,4.6862915 16,8 L16,12.41 L18,14.41 L18,16 Z" id="Shape"></path>
+            </g>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#36C2B4" cx="17.5" cy="5.5" r="4.5"></circle>
+        </g>
+    </g>
+</svg>
